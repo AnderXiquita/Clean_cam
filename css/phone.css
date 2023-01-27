@@ -1,0 +1,11 @@
+.contenedor-nav {
+    justify-content: center;
+}
+
+.contenedor-nav h1 {
+    margin-bottom: 15px;
+}
+
+.contenedor-features {
+    grid-template-columns: repeat(auto-fill, minmax(280px, 40%));
+}

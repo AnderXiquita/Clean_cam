@@ -1,0 +1,8 @@
+.contenedor-showcase {
+    width: 100%;
+    text-align: center;
+}
+
+.showcase {
+    justify-content: flex-end;
+}
